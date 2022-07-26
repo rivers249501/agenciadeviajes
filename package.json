@@ -1,0 +1,19 @@
+{
+  "name": "agenciadeviajes",
+  "version": "1.0.0",
+  "description": "Agenciadeviajes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Rivers Emmanuel Morales Salazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
